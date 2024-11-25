@@ -9,7 +9,7 @@
 |----------------|-------------------|
 | [RETO](https://github.com/Gamaliel-Marines/Data-Privacy-Advanced-AI-II) |[RETO](https://github.com/Gamaliel-Marines/Data-Privacy-Advanced-AI-II)         | 
 | [BIG DATA](https://github.com/Gamaliel-Marines/BigData-XrayClassification.git) | [BIG DATA](https://github.com/Gamaliel-Marines/BigData-XrayClassification.git)|
-| ESTADÍSTICA    | ESTADÍSTICA          |
+| [ESTADÍSTICA](https://github.com/Gamaliel-Marines/Advanced-Artificial-Intelligence-II-Delivery/blob/main/Project_Stadistics_Gamaliel_Marines_A01708746.ipynb)    | [ESTADÍSTICA](https://github.com/Gamaliel-Marines/Advanced-Artificial-Intelligence-II-Delivery/blob/main/Project_Stadistics_Gamaliel_Marines_A01708746.ipynb)          |
 
 
 ## Implementation  
