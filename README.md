@@ -7,12 +7,9 @@
 
 | MODULOS         | EVIDENCIA        |
 |----------------|-------------------|
-| RETO           | RETO          | 
-| BIG DATA       | BIG DATA      |
-| ESTADÍSTICA    | RETO          |
-| Something      | RETO          |
-| Something      | RETO          |
-| Something      | RETO          |
+| [RETO](https://github.com/Gamaliel-Marines/Data-Privacy-Advanced-AI-II) |[RETO](https://github.com/Gamaliel-Marines/Data-Privacy-Advanced-AI-II)         | 
+| [BIG DATA](https://github.com/Gamaliel-Marines/BigData-XrayClassification.git) | [BIG DATA](https://github.com/Gamaliel-Marines/BigData-XrayClassification.git)|
+| ESTADÍSTICA    | ESTADÍSTICA          |
 
 
 ## Implementation  
@@ -20,8 +17,8 @@
 | MODULOS         | EVIDENCIA        | 
 |----------------|--------------------|
 | [Deep Learning](https://github.com/Gamaliel-Marines/Brain-Tumor-Classification-DeepLearning) | [Deep Learning](https://github.com/Gamaliel-Marines/Brain-Tumor-Classification-DeepLearning)| 
-| BIG DATA       | BIG DATA          | 
-| LANGUAGE MODEL | RETO          | 
+| [BIG DATA](https://github.com/Gamaliel-Marines/BigData-XrayClassification.git) | [BIG DATA](https://github.com/Gamaliel-Marines/BigData-XrayClassification.git)|
+| LANGUAGE MODEL | LANGUAGE MODEL          | 
 | Something      | RETO          | 
 | Something      | RETO          | 
 | Something      | RETO          |
