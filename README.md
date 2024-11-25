@@ -5,19 +5,23 @@
 
 ## Analysis  
 
-| Aspect         | Description        |  Somthing |
-|----------------|--------------------|-----------|
-| Something      | Something          | Something |
-| Something      | Something          | Something |
-
+| MODULOS         | EVIDENCIA        |
+|----------------|-------------------|
+| RETO           | RETO          | 
+| BIG DATA       | BIG DATA      |
+| ESTADÍSTICA    | RETO          |
+| Something      | RETO          |
+| Something      | RETO          |
+| Something      | RETO          |
 
 
 ## Implementation  
 
-| Component      | Details            |  
-|----------------|--------------------|  
-| Something      | Something          |  
-| Something      | Something          |  
-
-
-[Deep Learning](https://github.com/Gamaliel-Marines/Brain-Tumor-Classification-DeepLearning)  
+| MODULOS         | EVIDENCIA        | 
+|----------------|--------------------|
+| [Deep Learning](https://github.com/Gamaliel-Marines/Brain-Tumor-Classification-DeepLearning) | [Deep Learning](https://github.com/Gamaliel-Marines/Brain-Tumor-Classification-DeepLearning)| 
+| BIG DATA       | BIG DATA          | 
+| LANGUAGE MODEL | RETO          | 
+| Something      | RETO          | 
+| Something      | RETO          | 
+| Something      | RETO          |
