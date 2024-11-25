@@ -18,7 +18,4 @@
 |----------------|--------------------|
 | [Deep Learning](https://github.com/Gamaliel-Marines/Brain-Tumor-Classification-DeepLearning) | [Deep Learning](https://github.com/Gamaliel-Marines/Brain-Tumor-Classification-DeepLearning)| 
 | [BIG DATA](https://github.com/Gamaliel-Marines/BigData-XrayClassification.git) | [BIG DATA](https://github.com/Gamaliel-Marines/BigData-XrayClassification.git)|
-| LANGUAGE MODEL | LANGUAGE MODEL          | 
-| Something      | RETO          | 
-| Something      | RETO          | 
-| Something      | RETO          |
+| [LANGUAGE MODEL](https://github.com/Gamaliel-Marines/Language-Model-Advanced-Artificial-Intelligence-II.git) |[LANGUAGE MODEL](https://github.com/Gamaliel-Marines/Language-Model-Advanced-Artificial-Intelligence-II.git)          | 
