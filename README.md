@@ -1,16 +1,25 @@
-# Advanced-Artificial-Intelligence-II-Delivery
 
-Gamaliel Marines Olvera
+# Advanced Artificial Intelligence II Delivery  
+**Gamaliel Marines Olvera**  
+
 ---
-The delivery consists of the following:
 
-## Analysis 
+## Analysis  
 
-| Something | Something |
-| Something | Something |
+| Aspect         | Description        |  Somthing |
+|----------------|--------------------|-----------|
+| Something      | Something          | Something |
+| Something      | Something          | Something |
 
+---
 
-## Implementation 
+## Implementation  
 
-| Something | Something |
-| Something | Something |
+| Component      | Details            |  
+|----------------|--------------------|  
+| Something      | Something          |  
+| Something      | Something          |  
+
+---
+
+Let me know if you need help filling in the details or customizing the content further!
