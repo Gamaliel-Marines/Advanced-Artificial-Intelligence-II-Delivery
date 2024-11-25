@@ -20,7 +20,4 @@
 | Something      | Something          |  
 
 
-
-
-
-[Deep Learning]((https://github.com/Gamaliel-Marines/Brain-Tumor-Classification-DeepLearning))
+[Deep Learning](https://github.com/Gamaliel-Marines/Brain-Tumor-Classification-DeepLearning)  
