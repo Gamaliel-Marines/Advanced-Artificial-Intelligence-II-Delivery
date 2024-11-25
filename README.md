@@ -1,7 +1,6 @@
 
 # Advanced Artificial Intelligence II Delivery  
 **Gamaliel Marines Olvera**  
-
 ---
 
 ## Analysis  
@@ -12,7 +11,6 @@
 | Something      | Something          | Something |
 
 ---
-
 ## Implementation  
 
 | Component      | Details            |  
